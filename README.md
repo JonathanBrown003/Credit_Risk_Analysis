@@ -1,5 +1,7 @@
 # Credit_Risk_Analysis
-Using structured machine learning to make financial credit decisions. The main objective is to spot high credit risk applicants with these different models. 
+Using structured machine learning to make financial credit decisions. The main objective is to spot high credit risk applicants with these different models.
+
+![](https://github.com/JonathanBrown003/Credit_Risk_Analysis/blob/4815d8998140ec25ad3e7c4d884ee1d968544695/.ipynb_checkpoints/CreditRisk.PNG)
 
 ## Overview
 The purpose of this analysis is to predict credit risk using machine learning algorithms based on a data set composed of features. The objective is to find creditworthy candidates for loans which should ensure low loan default rates. Different machine learning models were used for this task and their results were analyzed by calculating balanced accuracy, precision and recall scores.
